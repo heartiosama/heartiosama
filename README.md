@@ -10,8 +10,7 @@
 
 🎓 Cybersecurity student at TryHackMe  
 🎯 Focused on Offensive Security fundamentals  
-🔐 Interested in Cryptography & Web Vulnerabilities  
-🕵️ Exploring IDOR and access control flaws  
+🔐 Interested in Cryptography & Web Vulnerabilities    
 📈 Consistently improving through hands-on labs  
 
 ---
@@ -21,7 +20,6 @@
 - 🔍 Recon & Enumeration  
 - 🌐 Web Exploitation Basics  
 - 🔐 Cryptography fundamentals  
-- 🧩 IDOR & Broken Access Control  
 - 🐧 Linux fundamentals  
 
 ---
