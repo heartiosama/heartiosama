@@ -1,15 +1,18 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=40&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=100&lines=WELCOME;HEARTI+OSAMA;SYSTEM+INITIALIZING..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=40&duration=2500&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=100&lines=WELCOME;HEARTI+OSAMA;ACCESS+GRANTED;SYSTEM+INITIALIZING..." />
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=HEARTI%20OSAMA&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
-<h1 align="center" style="color:white;">
+<h1 align="center">
+  HEARTI OSAMA
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-active-black?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
