@@ -56,7 +56,9 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/heartiosama-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+  <a href="https://discord.com/users/1198080132204724234">
+    <img src="https://img.shields.io/badge/heartiosama-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
 
 ---
