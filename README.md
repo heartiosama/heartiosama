@@ -36,15 +36,6 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 - Metasploit  
 
 ---
-
-## 📊 Learning Platform
-
-<p align="center">
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/tryhackme-active-000000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000"/>
-  </a>
-</p>
-
 ---
 
 ## 📫 Contact
